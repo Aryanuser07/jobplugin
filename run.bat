@@ -1,1 +1,1 @@
-echo Hello from Jenkins JobPlugin
+echHello from Jenkins JobPlugin
